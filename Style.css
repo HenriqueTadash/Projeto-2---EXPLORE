@@ -1,0 +1,66 @@
+body {
+    font-size: 'Open Sans', 'Dosis';
+    text-align: center;
+    margin: 0;
+}
+
+#hero { 
+    width: 592px;
+    margin: 70px auto 72px;
+}
+
+#hero img {
+    margin-bottom: 72px;
+}
+
+h1 {
+    font-family: 'Dosis';
+    font-size: 32px;
+    line-height:40px;
+    font-weight: 500;
+    margin-bottom: 32px;
+    text-shadow: grey 2px 3px 2px;
+
+}
+
+h1 span {
+    font-size: Dosis;
+    color: #EE24FF;
+}
+
+p span { 
+    font-size: Open;
+    color: black;
+    font-weight: bold;
+}
+
+#footer {
+    color: black;
+    
+}
+
+p, #footer{ 
+    color: #828282;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+
+#footer a + a {
+    margin-left: 28px;
+}
+
+
+.line {
+    width: 568px;
+    height: 0;
+    border: 1px solid #eceff2;
+    margin: 0 auto 8px;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+
+}
